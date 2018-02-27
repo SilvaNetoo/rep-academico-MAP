@@ -1,0 +1,19 @@
+1-	A etapa de “Analise” serve para identificar as necessidades e requisitos dos clientes ou é a transposição entre as requisitos e modelagem para solução de determinado problema
+2-	1.ciclo de vida mais longo para os sistemas; 2.Desenvolvimento acelerado de sistemas; 3. Possibilidade de se construir sistemas mais complexos, pela incorporação de funções prontas; .4 facilidade de manutenção; .5 fácil compreensão.
+3-	É para atender uma exigência, solução, desejo ou necessidade de um software, definir o escopo. A discrição dos requisitos funcionais é: Função que clientes e usuários querem ou precisam que o software ofereça ou para saber as funcionalidades que o sistema deve ter.
+4-	(Código no e-mail)
+5-	Um iterator se refere tanto ao objeto que permite ao programador percorrer uma coleção de elementos particularmente listas, quanto ao padrão de projetos Iterator, no qual um iterador é usado para percorrer um container e acessar seus elementos. Ao usar uma LinkedList com objetos não ordenados o for get(i) percorrerá toda lista para encontrar esse objeto quanto ao Iterator buscara esse objeto de forma mais rápida pulando de nó em nó, então o iterator melhora a performance para Collections não ordenados.
+6-	(Código no e-mail)
+7-	O throw é só para lançar exceções que normalmente são tratadas no try/catch e return é para retornar valores, objetos...
+8-	(Código no e-mail)
+9-	Vantagem = Reuso de comportamento, interpolação, ajuda na manutenção.
+Desvantagem = Ambiguidade, complexidade.
+10-	 Não sei.
+11-	Herança de tipo é capacidade de uma classe herdar uma interface (um comportamento) e, ser referenciada por esse outro tipo.
+e herença de implementação é...
+12-	Desvantagem é que está atribuindo muita responsabilidade a quem não deveria, isso deixa o código “sujo” e as vezes lento, ex: Se várias classes fazem chamadas a uma única classe isso pode acarretar em tempo de espera.
+13-	Não sei.
+14-	“Responsabilidade a uma classe” é quando dizemos a classe que ela tem uma tarefa que tem algo específico para executar.
+A boa programação diz que temos que programar visando o baixo acoplamento e a alta coesão, de vc atribui muita responsabilidade a uma classe está fazendo um algo acoplamento o que não é uma boa prática,.
+“Mais não seria melhor?” só se for mais classes para distribuir as responsabilidades, pois se não, o alto acoplamento será quase inevitável.
+15-	Não sei.
