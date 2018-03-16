@@ -1,9 +1,9 @@
 
-public class TesteAbstractFactory {
+public class TesteSingleton {
 
 	public static void main(String[] args) {
 		for (int i = 0; i < 10; i++) {
-			AbstractFactory inc = AbstractFactory.getIncremental();
+			Singleton inc = Singleton.getIncremental();
 			inc.getCount();
 			System.out.println(inc);
 		}
