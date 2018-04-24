@@ -8,7 +8,7 @@ public class Main {
 		Funcionario outroFuncionario = new Funcionario(Funcionario.DBA,1700, 2);
 		System.out.println(outroFuncionario.calcularGratificacao());
 		
-		Funcionario maisUmFuncionario = new Funcionario(Funcionario.GERENTE,4000,4);
+		Funcionario maisUmFuncionario = new Funcionario(Funcionario.GERENTE,1000,4);
 		System.out.println(maisUmFuncionario.calcularGratificacao());
 	}
 }
